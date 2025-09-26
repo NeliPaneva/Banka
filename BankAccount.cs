@@ -16,6 +16,6 @@ namespace Banka
             get { return name; }
             set { name = value; }
         }
-
+        public BankAccount()
     }
 }
